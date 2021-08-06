@@ -8,5 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMargraf&layout=compact&theme=tokyonight)](https://github.com/FilipeMargraf/github-readme-stats)
 
 ## You can found me in:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FilipeMargraf)](https://github.com/FilipeMargraf)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-margraf-577b351a0/)](https://www.linkedin.com/in/filipe-margraf-577b351a0/)
+<a href="https://www.linkedin.com/in/filipe-margraf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.instagram.com/lipemargraf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a href="mailto:filipemargraf1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
