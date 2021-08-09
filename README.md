@@ -1,7 +1,7 @@
 ### Hello, World!! Welcome to my profile! I'm Filipe Margraf 👋😃
 
 - 🌎 I'm from Brazil
-- 🌱 I'm currently learning Java, C#, JavaScript, HTML5 and CSS3
+- 🌱 I'm currently learning JavaScript, HTML5, CSS3, C# and Java
 - 📫 You can send me a email!: filipemargraf1@gmail.com
 
 ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMargraf&show_icons=true&theme=tokyonight)
