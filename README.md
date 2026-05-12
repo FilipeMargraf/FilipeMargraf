@@ -2,7 +2,7 @@
 
 - 🌎 I'm from Brazil
 - 🌱 I'm currently learning JavaScript, HTML5, CSS3, C# and Java
-- 📫 You can send me a email!: filipemargraf1@gmail.com
+- 📫 You can send me an email!: filipemargraf1@gmail.com
 
 ![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMargraf&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMargraf&layout=compact&theme=tokyonight)](https://github.com/FilipeMargraf/github-readme-stats)
